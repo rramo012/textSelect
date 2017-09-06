@@ -1,0 +1,19 @@
+{
+  "name": "textselect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery.text-select.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rramo012/textSelect.git"
+  },
+  "author": "Rafael Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rramo012/textSelect/issues"
+  },
+  "homepage": "https://github.com/rramo012/textSelect#readme"
+}
